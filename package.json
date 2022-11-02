@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "chart.js": "^3.7.1",
+        "leaflet-draw": "^1.0.4"
+    }
+}
